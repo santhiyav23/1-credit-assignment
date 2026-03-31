@@ -22,9 +22,9 @@
 
 
 # 3 Linkedin Post
-> Submit the LinkedIn post URL
+>  LinkedIn post URL
 > 
-> [LinkedIn post URL]
+> https://www.linkedin.com/posts/santhiya-v-147354326_modernsoftwaredevelopment-aiindevelopment-activity-7444620278757781504-4d6J?utm_source=share&utm_medium=member_android&rcm=ACoAAFJG9McB4nxmqTnya2SSBdISRemWCRJEIyc
 
 
 # 4 Certification Requirement
